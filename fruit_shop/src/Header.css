@@ -1,0 +1,49 @@
+.image{
+   
+    width: 185px;
+}
+
+.radhe{
+    justify-content: space-evenly;
+    /* justify-content: center; */
+    display: flex;
+}
+h6 a{
+    color: beige;
+    list-style: none;
+    
+}
+.text{
+    letter-spacing: 3px;
+}
+.main-div{
+    width: 100%;
+    height: 100%;
+}
+.main-content{
+    z-index: 1;
+    position: absolute;
+    top: 30%;
+    padding-left: 50px;
+    color: white;
+    left: 0;
+}
+.button{
+    /* height: 50px; */
+    /* width: 150px; */
+    font-size: larger;
+    padding: 10px 35px;
+    color: #fff;
+    margin-top: 20px;
+    border: 1px solid white;
+    background-color: transparent;
+    transition: .2s;
+
+}
+.button:hover{
+    background-color: white;
+    color: black;
+
+}
+
+
